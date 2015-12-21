@@ -12,4 +12,4 @@ Welcome on WeStud.io Dev Center. Here you'll find sets of common rules for our d
 2. [Coding in CSS](/css/)
 3. Coding in HTML
 4. Coding in Javascript
-5. Using Github
+5. [Using Github](/git/)
