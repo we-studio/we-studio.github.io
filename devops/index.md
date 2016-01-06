@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEVOPS - WeStud.io Dev Center
+title: DevOps - WeStud.io Dev Center
 permalink: /devops/
 ---
 
